@@ -1,0 +1,1 @@
+export const ZIYARET_FORMU = 'ZIYARET_FORMU';
